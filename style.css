@@ -1,3 +1,5 @@
 li{
   display:inline;
+  float:right;
+  text-decoration:none;
 }
